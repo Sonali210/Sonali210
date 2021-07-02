@@ -1,5 +1,3 @@
-</br>
-
 ### Hello Everyone!! This is Sonali 👋
 <img align="right" alt="GIF" src="https://github.com/Sonali210/Sonali210/blob/main/coder.gif?raw=true" width="500" height="300" />
 
@@ -7,12 +5,16 @@
 - 🌱 I’m currently Broiling projects in NLP and Conversational AI.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
+
+
+</br>
+</br>
 </br>
 </br>
 
 ## 📊 My Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sonali210&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Sonali210&count_private=true&theme=react&bg_color=0D1117)
   <br/>
   </br>
 <h2> :zap: Most used languages ❤️</h2>
