@@ -3,7 +3,7 @@
 
 ### Hello Everyone!! This is Sonali 👋
 
-- ✍ I’m currently pursuing B.Tech in Electronics and Communication Engineering.
+- ✍ B.Tech in Electronics and Communication Engineering.
 - 🌱 I’m currently Broiling projects in NLP and Conversational AI.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -47,5 +47,5 @@
                                                                                                                           
 <a href = "https://www.linkedin.com/in/sonali-8b5a341a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sonali_m21"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="mailto:sonali21031@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:sonali21031m@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
